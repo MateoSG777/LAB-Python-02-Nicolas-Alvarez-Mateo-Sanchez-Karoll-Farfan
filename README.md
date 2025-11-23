@@ -39,7 +39,7 @@ Este laboratorio tiene como objetivo que los estudiantes fortalezcan sus conocim
 ## ✅ Criterios de Evaluación  
 
 1. **Correctitud de las soluciones** (funcionalidad de los predicados).  
-2. **Cumplimiento de la estructura solicitada** (archivos independientes en `lab01/`).  
+2. **Cumplimiento de la estructura solicitada** (archivos independientes en `lab02/`).  
 3. **Claridad en la codificación** (nombres, comentarios y legibilidad).  
 4. **Uso adecuado de variables** (incluyendo variables anónimas donde corresponda).  
 
