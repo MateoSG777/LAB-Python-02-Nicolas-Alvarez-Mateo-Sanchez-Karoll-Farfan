@@ -202,7 +202,25 @@ b. Dada una lista de numeros, elevar cada número al cubo, filtrar los mayores q
 c. Dada una lista de numeros, filtrar números mayores que 10, elevarlos al cuadrado, ordenarlos de mayor a menor.
 ```
 
+---
 
+## Ejercicio 6 - Minimax
+
+```
+Dado el juego conocido como NIM, implementar una solución a este usando el algoritmo minimax visto en clase
+
+En este juego hay una pila de piedras (por ejemplo 10).
+
+En cada turno un jugador puede quitar 1, 2 o 3 piedras.
+
+Pierde el jugador que no puede mover (porque ya no quedan piedras).
+
+MAX = Computadora
+
+MIN = Humano
+
+Dado lo anterior y el algoritmo visto en clase, modelar el juego y simularlo donde MAX sera la cpu y MIN el humado el cual interactua mediante el input, el primer turno sera el de MIN
+```
 
 ---
 
